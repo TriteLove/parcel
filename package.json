@@ -13,15 +13,8 @@
   "keywords": [],
   "description": "",
   "devDependencies": {
-    "@vue/component-compiler-utils": "^3.1.2",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
-    "rimraf": "^3.0.2",
-    "vue-template-compiler": "^2.6.11"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.8.0",
-    "axios": "^0.19.2",
-    "postcss-modules": "^2.0.0"
+    "rimraf": "^3.0.2"
   }
 }
