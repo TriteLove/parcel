@@ -1,0 +1,11 @@
+# node modules
+/node_modules/*
+
+# bundles
+/dist/*
+
+# local record
+package-lock.json
+
+# parcel cache
+.cache
