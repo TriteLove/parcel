@@ -4,6 +4,9 @@
 # bundles
 /dist/*
 
+# local serve
+/serve/*
+
 # local record
 package-lock.json
 
